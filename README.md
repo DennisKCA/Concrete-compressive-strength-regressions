@@ -9,5 +9,5 @@
    Fine Aggregate (component 7)(kg in a m^3 mixture)	
    Age (day)	
    Concrete compressive strength(MPa, megapascals) 
-   Each regression model have been evaluated with r2_score and based on the results random forrest regression shows the best result
+   Each regression model have been evaluated with r2_score and based on the results random forrest regression shows the best fit to the model
 
